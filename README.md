@@ -2,16 +2,16 @@
 
 Este repositorio contiene el código fuente de la página web informativa de la **Comunidad Energética Social de Vejer de la Frontera**. 
 
-Es una iniciativa local, sostenible y abierta a toda la ciudadanía[cite: 1, 2].
+Es una iniciativa local, sostenible y abierta a toda la ciudadanía
 
 ## 🏫 Origen del Proyecto
-[cite_start]El proyecto nace de una iniciativa de emprendimiento desarrollada por el alumnado y profesorado de Formación Profesional del **IES La Janda**[cite: 48]. 
+El proyecto nace de una iniciativa de emprendimiento desarrollada por el alumnado y profesorado de Formación Profesional del **IES La Janda**
 
 ## 🎯 Objetivos
-**Ahorro:** Reducir el coste de la factura eléctrica de los participantes[cite: 42].
-**Sostenibilidad:** Fomentar el uso de energías renovables y disminuir la contaminación[cite: 43, 45].
-**Independencia:** Disminuir la dependencia de las grandes compañías eléctricas[cite: 44].
-**Inclusión:** Destinar energía renovable a familias en situación de vulnerabilidad energética[cite: 49].
+**Ahorro:** Reducir el coste de la factura eléctrica de los participante
+**Sostenibilidad:** Fomentar el uso de energías renovables y disminuir la contaminación
+**Independencia:** Disminuir la dependencia de las grandes compañías eléctricas
+**Inclusión:** Destinar energía renovable a familias en situación de vulnerabilidad energética
 
 ## 👥 ¿Quién puede participar?
 La comunidad está abierta a:
